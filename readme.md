@@ -20,4 +20,4 @@ Example: for amount=4 (4¢) and denominations=[1,2,3] (1¢, 2¢ and 3¢), your p
 1¢, 1¢, 1¢, 1¢
 1¢, 1¢, 2¢
 1¢, 3¢
-2¢, 2¢# spotify_fellowship_app
+2¢, 2¢
